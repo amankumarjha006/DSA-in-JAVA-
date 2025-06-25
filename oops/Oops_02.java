@@ -1,5 +1,5 @@
 // The previous code can also be written using parametrized constructor as follows:
-package oops;
+package OOPS;
 import java.util.Scanner;
 
 
