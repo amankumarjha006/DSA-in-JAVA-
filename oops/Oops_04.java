@@ -1,3 +1,4 @@
+//This code takes user input od a shape and its dimensions and otputs its area and perimeter
 package OOPS;
 import java.util.Scanner;
 
